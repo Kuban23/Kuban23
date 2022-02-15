@@ -11,6 +11,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-4682B4?style=for-the-badge&logo=Webpack&logoColor=FFFFFF)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-32CD32?style=for-the-badge&logo=node&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-D3D3D3?style=for-the-badge&logo=Git&logoColor=FF4500)
 
 
 ## Follow Me
