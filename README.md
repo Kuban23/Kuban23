@@ -13,4 +13,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 
 
-Follow Me
+## Follow Me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/EsinAndrew)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](https://kubanesin@gmail.com)
+
+
