@@ -1,6 +1,12 @@
 [![Header](https://github.com/Kuban23/Kuban23/blob/main/image/Header_.jpg)]()
 
-## Hi! My name is Andrew.
+## Привет! Меня зовут Андрей.
+#### Я веб-разработчик.
+
+Заканчиваю обучение в Яндекс.Практикуме. По итогу получу диплом о профессиональной переподготовке по профессии "Веб-разработчик".
+Сейчас работаю над проектом "Mesto", портирую его на React.
+
+Люблю кодить и делиться опытом и знаниями с коллегами. 
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html5&logoColor=FFFFFF)
@@ -15,8 +21,8 @@
 
 
 ## Follow Me
-[![Linkedin](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)]()
+[![Linkedin](https://img.shields.io/badge/-Linkedin-4682B4?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](www.linkedin.com/in/андрей-есин)
 [![Telegram](https://img.shields.io/badge/-Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/EsinAndrew)
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](https://kubanesin@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](kubanesin@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuban23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
