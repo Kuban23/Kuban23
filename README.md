@@ -19,6 +19,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-32CD32?style=for-the-badge&logo=node&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D3D3D3?style=for-the-badge&logo=Git&logoColor=FF4500)
+![TailWind Css](https://img.shields.io/badge/-tailwind-ffffff?style=for-the-badge&logo=tailwind%20CSS&logoColor=00BFFF)
 
 
 ## Follow Me
